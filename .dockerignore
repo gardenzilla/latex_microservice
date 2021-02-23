@@ -1,0 +1,4 @@
+data/
+target/
+!target/release/latex_microservice
+Cargo.lock
